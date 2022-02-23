@@ -1,1 +1,1 @@
-FROM jaytparekh7121994.jfrog.io/devops101-docker/ubuntu:16.04
+FROM jaytparekh7121994.jfrog.io/default-docker-virtual//ubuntu:16.04
